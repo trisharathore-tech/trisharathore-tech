@@ -2,7 +2,7 @@
 <h3 align="center">💻 B.Tech CSE (IT) Student | Passionate Web Developer | Learning C++</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Frontend+Developer;Learning+C%2B%2B;Always+Learning+New+Technologies;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Science+Information+Technology+Student;Frontend+Developer;Learning+C%2B%2B;Always+Learning+New+Technologies;Future+Software+Engineer" />
 </p>
 
 ---
